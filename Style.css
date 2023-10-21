@@ -1,0 +1,208 @@
+*{
+    background-color: #fafafa;
+    margin-left: 32px;
+    margin-right: 32px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    overflow-x: hidden;
+}
+
+*{
+    font-family: sans-serif;
+    color: #0D2843;
+}
+
+.nama{
+    font-size: 54px;
+
+}
+
+.status{
+    color: #F06DD3;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+p{
+    line-height: 30px;
+  height: 224px;
+  width: 773px;
+}
+
+#foto-profile {
+    background-image: url("Img/Fotoprofile.png")
+    url (linear-gradient, rgba (233, 233, 233,0)), (rgb(243, 243, 243));
+    width: 324px;
+    background: transparent;
+    position: absolute;
+    left: 75%;
+    bottom: 10%;
+}
+
+#circle{
+    background-color: transparent;
+    position: absolute;
+    top: 9%;
+    left: 65%;
+}
+
+
+#figma-icon{
+    background: transparent;
+    width: 5%;
+    position: absolute;
+    left: 45%;
+    top: 93%;
+}
+#bg-figma{
+    width: 140px;
+    background: transparent;
+    position: absolute;
+    left: 42%;
+    top: 91%;
+}
+
+#gform-icon{
+    background: transparent;
+    width: 3%;
+    position: absolute;
+    left: 35%;
+    top: 90%;
+    rotate: -9deg;
+}
+#bg-gform{
+    width: 142px;
+    background: transparent;
+    position: absolute;
+    left: 31%;
+    top: 88%;
+    
+}
+
+
+#gmeet-icon{
+    background: transparent;
+    width: 4%;
+    position: absolute;
+    left: 39%;
+    top: 115%;
+    rotate: -15deg;
+}
+#bg-gmeet{
+    width: 142px;
+    background: transparent;
+    position: absolute;
+    left: 36%;
+    top: 112%;
+}
+
+#maze-icon{
+    background: transparent;
+    width: 3%;
+    position: absolute;
+    left: 45%;
+    top: 75%;
+}
+#bg-maze{
+    width: 142px;
+    background: transparent;
+    position: absolute;
+    left: 41%;
+    top: 71%;
+}
+
+#spreadsheet-icon{
+    background: transparent;
+    width: 3%;
+    position: absolute;
+    left: 58%;
+    top: 88%;
+    rotate: 12deg;
+}
+#bg-spreadsheet{
+    width: 142px;
+    background: transparent;
+    position: absolute;
+    left: 54%;
+    top: 86%;
+}
+
+#webflow-icon{
+    background: transparent;
+    width: 3%;
+    position: absolute;
+    top: 115%;
+    left: 55%;
+    rotate: 12deg;
+}
+#bg-webflow{
+    width: 142px;
+    background: transparent;
+    position: absolute;
+    top: 112%;
+    left: 51%;
+}
+
+h1.ui{
+    background-color: transparent;
+    font-size: 188px;
+    position: absolute;
+    top: 80%;
+    left: 0%;
+}
+h1.ux{
+    color: #8098AF;
+    background-color: transparent;
+    font-size: 188px;
+    position: absolute;
+    top: 101%;
+    left: 10%;
+}
+
+h1.tools{
+    background-color: transparent;
+    font-size: 132px;
+    right: 0%;
+    top: 100%;
+    position: absolute;
+}
+
+.title{
+    font-size: 32px;
+    font-weight: 400;
+    background-color: transparent;
+    position: absolute;
+    right: 40%;
+    bottom:-90%;
+}
+
+#circle-blur{
+    backdrop-filter: blur(10px);
+    background-color: transparent;
+    position: absolute;
+    left:42%;
+}
+
+#circle-solid{
+    background-color: transparent;
+    position: absolute;
+    left:40%;
+}
+
+.mcstudio{
+    background-color: transparent;
+    width: 614px;
+
+    position: absolute;
+    left: 0px;
+
+
+}
+
+.deskripsi-webdesign{
+    width: 500px;
+    background-color: transparent;
+    position: absolute;
+    right: 32px;
+
+}
